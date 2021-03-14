@@ -97,3 +97,6 @@ header {
 .notVisible:hover {
   display: block;
 }
+#header {
+  font-weight: bold;
+}
